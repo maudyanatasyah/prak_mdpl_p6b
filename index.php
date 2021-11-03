@@ -8,7 +8,7 @@
 </head>   
 <body>
         <h3>Materi Git Remote</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam dicta neque soluta fugit, maiores molestias perferendis quia eaque, expedita, quae sapiente quidem illum in placeat odit rem explicabo provident odio?,</p>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi, explicabo mollitia ducimus saepe provident, reprehenderit voluptatum dolorum, possimus tenetur perferendis quis debitis. Vel illo animi fugit expedita ad ipsam reiciendis.</p>
         <ul>
                 <li>Materi 1</li>
                 <li>Materi 2</li>
